@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "421278931286",
+    "firebase_url": "https://yatmazmovies.firebaseio.com",
+    "project_id": "yatmazmovies",
+    "storage_bucket": "yatmazmovies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421278931286:android:ff7c7f72d397bee4b5def7",
+        "android_client_info": {
+          "package_name": "com.yatmazmovies.lnc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421278931286-ergm15bpqb4n0uhps6aqdphs7r05c0bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yatmazmovies.lnc",
+            "certificate_hash": "dd84a629db3c2eaaf15f4e8f20d49db81d1478e2"
+          }
+        },
+        {
+          "client_id": "421278931286-7r05duchffre7bd9vopi6qk9r2r8n9qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzQQrSznSRnOJ8rGRCxdhRY9HNGPSXFvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421278931286-7r05duchffre7bd9vopi6qk9r2r8n9qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
